@@ -1,27 +1,19 @@
 # Hello, I'm Marco👋
 
-I'm a passionate  from  a love for Technology. Here's a bit about me:
-
-- 🔭 I’m currently working on learning .
-- 🌱 I’m currently learning 
-- 📫 How to reach me: 
+I'm a passionate Learner from RSA who has a love for Technology. 
+Here's a bit about me:
+- 🔭 I’m currently working on: my music game, Guessing game.
+- 🌱 I’m currently learning: new programming languages as well as platforms such as Docker. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Im Portuguese.
 
 ## Skills
-
-- Languages: [List of Programming Languages]
-- Frameworks: [List of Frameworks]
-- Tools: [List of Tools]
-- Databases: [List of Databases]
-
-## Projects
-
-Here are some projects I'm proud of:
-
-
+- Languages:  C#, C++ and Delphi
+- Databases: Microsoft SQL Server
 ## GitHub Stats
-
-[![GitHub Profile Views](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) 
-
+![](https://komarev.com/ghpvc/?username=Greenxertz&color=dc143c)
+![Visits Badge](https://badges.pufler.dev/visits/Greenxertz/Greenxertz)
+[![Years on GitHub](https://badges.pufler.dev/years/Greenxertz)](https://github.com/Greenxertz)
+[![Repositories](https://badges.pufler.dev/repos/Greenxertz)](https://github.com/Greenxertz)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Dario-Maselli)
 Feel free to explore my repositories and provide feedback!
