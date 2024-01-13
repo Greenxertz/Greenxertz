@@ -16,4 +16,5 @@ Here's a bit about me:
 [![Years on GitHub](https://badges.pufler.dev/years/Greenxertz)](https://github.com/Greenxertz)
 [![Repositories](https://badges.pufler.dev/repos/Greenxertz)](https://github.com/Greenxertz)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Dario-Maselli)
+
 Feel free to explore my repositories and provide feedback!
