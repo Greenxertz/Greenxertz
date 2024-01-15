@@ -4,7 +4,6 @@ I'm a passionate Learner from RSA who has a love for Technology.
 Here's a bit about me:
 - 🔭 I’m currently working on: my music game, Guessing game.
 - 🌱 I’m currently learning: new programming languages as well as platforms such as Docker and frameworks such as Angular. 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im Portuguese.
 
 ## Skills
