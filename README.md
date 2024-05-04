@@ -3,7 +3,7 @@
 I'm a passionate Learner from RSA who has a love for Technology. 
 Here's a bit about me:
 - 🔭 I’m currently working on: Point of sale system, trying to find unique ways to do it.
-- 🌱 I’m currently learning: new programming languages as well as platforms such as Docker and frameworks such as Angular. 
+- 🌱 I’m currently learning: new programming languages(HTML, PHP and Javascript) as well as platforms such as Docker and frameworks such as Angular. 
 - ⚡ Fun fact: Im Portuguese.
 
 ## Skills
